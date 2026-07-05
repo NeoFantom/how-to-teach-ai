@@ -1,6 +1,6 @@
 ---
 name: how-to-teach-ai
-description: Design, write, audit, and maintain beginner-friendly AI literacy and AI Agent tutorials by applying tutorialize-skill plus AI-specific teaching rules. Use when Codex needs to create an AI tutorial, teach ordinary people AI tools, split AI lessons for office/admin versus research audiences, explain AI Agent basics, plan install-and-first-task experiences, teach prompting/workflow/validation, cover AI safety/privacy/API keys/permissions, or freshness-check AI tool facts such as Codex, Claude Code, OpenAI APIs, SMTP, models, and CLI behavior.
+description: Design, write, audit, and maintain beginner-friendly AI literacy and AI Agent tutorials by applying tutorialize-skill plus AI-specific teaching rules. Use when an AI coding assistant such as Claude Code or Codex needs to create an AI tutorial, teach ordinary people AI tools, split AI lessons for office/admin versus research audiences, explain AI Agent basics, plan install-and-first-task experiences, teach prompting/workflow/validation, cover AI safety/privacy/API keys/permissions, or freshness-check AI tool facts such as Codex, Claude Code, OpenAI APIs, SMTP, models, and CLI behavior.
 ---
 
 # How to Teach AI
