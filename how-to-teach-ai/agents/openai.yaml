@@ -1,0 +1,4 @@
+interface:
+  display_name: "How to Teach AI"
+  short_description: "Design beginner-friendly AI tutorials"
+  default_prompt: "Use $how-to-teach-ai with $tutorialize-skill to design a beginner-friendly AI tutorial."
